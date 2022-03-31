@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    max-width: 900px;
+}
+form{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+.button2{
+    margin: 15px;
+}
+.button1{
+    width: 20px;
+    height: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
