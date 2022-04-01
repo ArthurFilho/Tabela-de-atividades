@@ -3,7 +3,7 @@
 <h2>Desenvolvido com as linguagens</h2>
 
 
-React.js
-HTML
-CSS
-JAVASCRIPT
+React.js,
+HTML,
+CSS e
+JAVASCRIPT.
