@@ -1,24 +1,44 @@
 .container{
     margin: auto;
-    max-width: 900px;
+    max-width: 600px;
+    border: 15px;
 }
 form{
     display: flex;
 }
-li{
+ul{
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
-.button2{
-    margin: 15px;
-}
+
 .button1{
     width: 20px;
     height: 20px;
-    
+    display: flex;
+
+}
+.done{
+    text-decoration: line-through;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding: 15px;
+    margin-top: 15px; ;
+    font-size: 30px;
 }
 
+.card{
+    box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.2);
+}
 
-
+.a1{
+width: 25px;
+height: 24px;
+}
 
 
 
